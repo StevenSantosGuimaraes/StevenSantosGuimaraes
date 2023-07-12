@@ -30,7 +30,7 @@
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevensantosguimaraes&show_icons=true&rank_icon=github&theme=onedark&bg_color=222222FF&border_color=444444FF)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevensantosguimaraes&show_icons=true&rank_icon=github&theme=dark&bg_color=222222FF&border_color=444444FF)
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevensantosguimaraes&theme=onedark&&bg_color=222222FF&hide_border=false" />
   
