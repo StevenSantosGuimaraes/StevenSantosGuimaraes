@@ -32,8 +32,8 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevensantosguimaraes&show_icons=true&rank_icon=github&theme=dark&bg_color=222222FF&border_color=444444FF)
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevensantosguimaraes&theme=onedark&&bg_color=222222FF&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevensantosguimaraes&theme=dark&bg_color=222222FF&hide_border=false" />
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevensantosguimaraes&theme=onedark&bg_color=222222FF&border_color=444444FF)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevensantosguimaraes&theme=dark&bg_color=222222FF&border_color=444444FF)
   
 </div>
