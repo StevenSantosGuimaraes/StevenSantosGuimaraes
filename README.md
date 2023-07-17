@@ -6,7 +6,8 @@
   
 ### 🌐Social:
 <div>
-<a href="https://www.linkedin.com/in/steven-santos-guimaraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/steven-santos-guimaraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://hub.docker.com/u/stevensantosguimaraes" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" target="_blank"></a>
 </div>
 
 ### 💻Stacks:
