@@ -1,8 +1,10 @@
 ### Hi, Devs! 👋
 
 ### Studies and Experiences
-- 🎓 Science Computing
-- 💼 Serpro
+- 💼 Intern: Federal Data Processing Service (Serpro)
+- 🎓 Bachelor's degree in Computer Science.
+- 🎓 MBA in Auditing, Controlling and Finance.
+- 🎓 Bachelor's degree in business administration.
   
 ### 🌐Social:
 <div>
